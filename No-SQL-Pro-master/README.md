@@ -1,3 +1,3 @@
-docker compose up zum starten
-Nicht alle Funktionen wurden fertiggestellt
-Die Datenbank läuft 
+<p>docker compose up zum starten</p>
+<p>Nicht alle Funktionen wurden fertiggestellt</p>
+<p>Die Datenbank läuft </p>
