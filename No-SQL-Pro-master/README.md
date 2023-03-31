@@ -1,2 +1,3 @@
 docker compose up zum starten
-sollte alles funktionieren ausser alle Kategorien anzuzeigen wurde somit herausgelöscht
+Nicht alle Funktionen wurden fertiggestellt
+Die Datenbank läuft 
